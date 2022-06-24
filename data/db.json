@@ -1,0 +1,29 @@
+
+{
+    "trips": [
+      {
+        "title": "2 Night Stay in Tacoma",
+        "price": "$300",
+        "county":"Pierce",
+        "id":1
+      },
+      {
+        "title": "3 Night Stay in Seattle",
+        "price": "$405",
+        "county":"King",
+        "id":2
+      },
+      {
+        "title": "4 Night Stay in Des Moines",
+        "price": "$320",
+        "county":"King",
+        "id":3
+      },
+      {
+        "title": "3 Night Stay in Puyallup",
+        "price": "$375",
+        "county":"Pierce",
+        "id":4
+      }
+    ]
+  }
